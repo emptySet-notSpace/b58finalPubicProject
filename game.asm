@@ -1,9 +1,7 @@
 #####################################################################
 #
 # CSCB58 Winter 2025 Assembly Final Project
-# University of Toronto, Scarborough
-#
-# Student: Lingke Meng, 1009923193, mengli35, lingke.meng@mail.utoronto.ca
+
 # # Bitmap Display
 # - Unit width in pixels: 4 
 # - Unit height in pixels: 4
