@@ -1,11 +1,5 @@
 # CSCB58 Winter 2025 — Assembly Final Project
 **University of Toronto, Scarborough**
-
-**Student:** Lingke Meng  
-**Student Number:** 1009923193  
-**UTORid:** mengli35  
-**Email:** lingke.meng@mail.utoronto.ca  
-
 ---
 
 ## Bitmap Display Configuration
